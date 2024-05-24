@@ -1,21 +1,4 @@
 # Todo list app
-A todo list app
+A simple todo list application which provides the functionality of adding tasks, marking it as done and deleteing it if not needed. If you are struggling with your time management, let this app help you in a presentational way. Cheers!
 
-
-### General steps to follow when creating a project
-
-- Thinking about the UI
-- Functionality
-	- Add a TODO
-	- Delete a TODO
-	- check task
-	- total items count
-- Data
-	- tasks - an array
-	- task - {done, text, id}
-- Functions (in code)
-	- addTodo
-	- deleteTodo
-	- checkTodo
-	- renderTodosList
-	- showNotification
+Try it [here]()
